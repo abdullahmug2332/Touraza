@@ -1,0 +1,24 @@
+
+Touraza     
+
+#fc2d2d
+
+bigg font/////////////////////////////////////////////////////////////////////////////////////////////////////
+font-family: 'Great Vibes', cursive;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Exo&family=Great+Vibes&family=Open+Sans&display=swap" rel="stylesheet">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Light font ////////////////////////////////////////////////////////////////////////////////////////////////////
+font-family: 'Open Sans', sans-serif;
+ color: #ab0202;
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Exo&family=Great+Vibes&family=Open+Sans&display=swap" rel="stylesheet">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#212529 footer color
+
+#aab1b7 footer text color
